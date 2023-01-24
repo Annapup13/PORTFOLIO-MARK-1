@@ -14,8 +14,8 @@
     display: block;
     padding: 17px;
   }
-  a, h1{
-    color: #B6AD90
+  .navwords {
+    color: #C2C5AA
   }
   .dropbtn {
   background-color: #656D4A;
@@ -58,4 +58,7 @@
 
   body{
     font-family: 'Raleway', sans-serif;
+  }
+  h1 {
+    color:#333D29
   }
