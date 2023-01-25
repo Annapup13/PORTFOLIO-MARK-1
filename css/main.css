@@ -17,6 +17,7 @@
   .navwords {
     color: #C2C5AA
   }
+  
   .dropbtn {
   background-color: #656D4A;
   color: #A4AC86;
@@ -59,6 +60,17 @@
   body{
     font-family: 'Raleway', sans-serif;
   }
-  h1 {
+
+  h1, h3 {
     color:#333D29
+  }
+
+  p {
+    color:#414833
+  }
+
+  .cat{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 300px;
   }
